@@ -57,7 +57,7 @@ According to the competition, The school's principal wants to know if test prepa
 - The student's scores are highly positively correlated for the different subjects; a student who performs well on one subject also performs well on the others and likewise a student performing poorly in one subject performs poorly on the others.
 
 ## Conclusion
-From the summary above, its concluded that the student that did well in the exams are the students that went through with the test preparatory course. It’s suggested that students should take test preparatory course for them to achieve better grades in their exams, either internal or external exams, also exploring the effect of parental education level on test scores proves encouraging as it positively affects the kids performance in school.
+From the summary above, its concluded that the student that did well in the exams are the students that went through with the test preparatory course. It’s suggested that students should take test preparatory course for them to achieve better grades in their exams, either internal or external exams, also exploring the effect of parental education level on test scores proves encouraging as it positively affects the students' performance in school.
 
 
 <p align="center">
